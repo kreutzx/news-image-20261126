@@ -44,6 +44,7 @@ SECTIONS = [
                 "deck": ("Israeli judges recommend prosecutors drop the most serious "
                          "case against the PM, over telecoms favours for good coverage."),
                 "source": "BBC", "certainty": "CONFIRMED", "region": "ME",
+                "motif": "gavel",
             },
             {
                 "headline": "ISRAELI STRIKE KILLS SENIOR HAMAS OFFICIAL IN GAZA",
@@ -56,6 +57,7 @@ SECTIONS = [
                 "deck": ("Ukraine claims the strike on a Russian airfield; "
                          "Moscow has not confirmed the losses."),
                 "source": "BBC", "certainty": "CLAIM", "region": "EU",
+                "motif": "drone",
             },
             {
                 "headline": "RUSSIA'S OWN FIGURES: NEARLY 500,000 LOST IN UKRAINE",
@@ -68,6 +70,7 @@ SECTIONS = [
                 "deck": ("Tanker overturns on a busy ring road; 21 more injured "
                          "in the blaze."),
                 "source": "BBC", "certainty": "CONFIRMED", "region": "AF",
+                "motif": "flame",
             },
             {
                 "headline": "COLOMBIA FREES 76 HOSTAGES AFTER 17-HOUR SIEGE",
@@ -98,6 +101,7 @@ SECTIONS = [
                 "deck": ("Quarter-point hike resumes tightening after the October "
                          "pause, as chip exports boom and inflation runs hot."),
                 "source": "REUTERS", "certainty": "CONFIRMED", "region": "APAC",
+                "motif": "bank",
             },
             {
                 "headline": "BOJ SIGNALS FASTER HIKES IF PRICES OVERSHOOT",
@@ -110,12 +114,14 @@ SECTIONS = [
                 "deck": ("Chipmaker $2.3 trillion below its October peak; S&P cites "
                          "management and board oversight."),
                 "source": "REUTERS", "certainty": "CONFIRMED", "region": "NA",
+                "motif": "chip",
             },
             {
                 "headline": "US CLEARS SPACEX PLAN FOR A MILLION AI SATELLITES",
                 "deck": ("FCC approves the Starmind constellation: up to a million "
                          "solar-powered data satellites in orbit."),
                 "source": "BBC", "certainty": "CONFIRMED", "region": "NA",
+                "motif": "satellite",
             },
             {
                 "headline": "TRUMP ACCOUNTS TRADED NVIDIA 44 TIMES THIS YEAR",
@@ -151,18 +157,21 @@ SECTIONS = [
                 "deck": ("Light from 13.1 billion years ago: a giant black hole just "
                          "630 million years after the Big Bang."),
                 "source": "HEADLINE DESK", "certainty": "CONFIRMED", "region": "EU",
+                "motif": "atom",
             },
             {
                 "headline": "HERA SEES STADIUM-SIZED CRATER ON DEFLECTED ASTEROID",
                 "deck": ("Europe's Hera spacecraft images Dimorphos after NASA's "
                          "2022 DART impact test."),
                 "source": "BBC", "certainty": "CONFIRMED", "region": "EU",
+                "motif": "asteroid",
             },
             {
                 "headline": "KING TIDES FLOOD CALIFORNIA COAST",
                 "deck": ("Record tides swamp roads and businesses as high water "
                          "meets El Nino seas."),
                 "source": "BBC · GUARDIAN", "certainty": "CONFIRMED", "region": "NA",
+                "motif": "drop",
             },
             {
                 "headline": "PUNJAB FARM FIRES DOWN 53% AS STUBBLE FINDS A MARKET",
@@ -181,6 +190,7 @@ SECTIONS = [
                 "deck": ("The Wild Boys guitarist, whose riffs defined the 1980s, "
                          "dies aged 65."),
                 "source": "BBC", "certainty": "CONFIRMED", "region": "EU",
+                "motif": "mic",
             },
             {
                 "headline": "JOLIE AND PITT SETTLE WINERY BATTLE",
@@ -192,6 +202,7 @@ SECTIONS = [
                 "deck": ("New York's parade is pushed back as bad weather hits "
                          "the holiday."),
                 "source": "BBC", "certainty": "CONFIRMED", "region": "NA",
+                "motif": "storm",
             },
             {
                 "headline": "NOLLYWOOD STAR PETE EDOCHIE DIES AT 79",
